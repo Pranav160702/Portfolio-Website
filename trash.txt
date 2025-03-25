@@ -1,0 +1,160 @@
+https://github.com/rajaprerak/rajaprerak.github.io/blob/master/index.html
+https://rajaprerak.github.io/
+
+
+Interests Section:
+
+<!-- Interestss Section Starts -->
+	<section class="Interestss" id="Interestss">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<!-- Section title start -->
+					<div class="section-title">
+						<h2>My Interestss</h2>
+						<p>Lorem ipsum dolor sit amet</p>
+					</div>
+					<!-- Section title end -->
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-4">
+					<!-- Interests Single Start -->
+					<div class="Interests-single wow fadeInUp" data-wow-delay="0.2s">
+						<div class="icon-box">
+							<!-- <i class="flaticon-globe"></i> -->
+							<i class="fas fa-globe"></i>
+
+						</div>
+						
+						<h3>Software Development</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus assumenda voluptas</p>
+					</div>
+					<!-- Interests Single End -->
+				</div>
+				
+				<div class="col-md-4">
+					<!-- Interests Single Start -->
+					<div class="Interests-single wow fadeInUp" data-wow-delay="0.4s">
+						<div class="icon-box">
+							<!-- <i class="flaticon-translation"></i> -->
+							<i class="fas fa-robot"></i> 
+						</div>
+						
+						<h3>Machine Learning</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus assumenda voluptas</p>
+					</div>
+					<!-- Interests Single End -->
+				</div>
+				
+				<div class="col-md-4">
+					<!-- Interests Single Start -->
+					<div class="Interests-single wow fadeInUp" data-wow-delay="0.6s">
+						<div class="icon-box">
+							<!-- <i class="flaticon-controls"></i> -->
+							<i class="fas fa-camera"></i>
+						</div>
+						
+						<h3>Computer Vision</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus assumenda voluptas</p>
+					</div>
+					<!-- Interests Single End -->
+				</div>
+				
+				<div class="col-md-4">
+					<!-- Interests Single Start -->
+					<div class="Interests-single wow fadeInUp" data-wow-delay="0.8s">
+						<div class="icon-box">
+							<!-- <i class="flaticon-growth"></i> -->
+							<i class="fas fa-code"></i>
+						</div>
+						
+						<h3>Software Engineering</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus assumenda voluptas</p>
+					</div>
+					<!-- Interests Single End -->
+				</div>
+				
+				<div class="col-md-4">
+					<!-- Interests Single Start -->
+					<div class="Interests-single wow fadeInUp" data-wow-delay="1s">
+						<div class="icon-box">
+							<!-- <i class="flaticon-quality"></i> -->
+							<i class="fas fa-chart-bar"></i>
+						</div>
+						
+						<h3>Visualization</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus assumenda voluptas</p>
+					</div>
+					<!-- Interests Single End -->
+				</div>
+				
+				<div class="col-md-4">
+					<!-- Interests Single Start -->
+					<div class="Interests-single wow fadeInUp" data-wow-delay="1.2s">
+						<div class="icon-box">
+							<!-- <i class="flaticon-support"></i> -->
+							<i class="fas fa-project-diagram"></i>
+						</div>
+						
+						<h3>Algorithms</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus assumenda voluptas</p>
+					</div>
+					<!-- Interests Single End -->
+				</div>
+
+				<div class="col-md-4">
+					<!-- Interests Single Start -->
+					<div class="Interests-single wow fadeInUp" data-wow-delay="1.4s">
+						<div class="icon-box">
+							<!-- <i class="flaticon-growth"></i> -->
+							<!-- <i class="fas fa-language"></i>  -->
+							<i class="ri-english-input"></i>
+						</div>
+						
+						<h3>Natural Language Processing</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus assumenda voluptas</p>
+					</div>
+					<!-- Interests Single End -->
+				</div>
+				
+				<div class="col-md-4">
+					<!-- Interests Single Start -->
+					<div class="Interests-single wow fadeInUp" data-wow-delay="1.6s">
+						<div class="icon-box">
+							<!-- <i class="flaticon-quality"></i> -->
+							<i class="fas fa-image"></i>
+						</div>
+						
+						<h3>Visualization</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus assumenda voluptas</p>
+					</div>
+					<!-- Interests Single End -->
+				</div>
+				
+				<div class="col-md-4">
+					<!-- Interests Single Start -->
+					<div class="Interests-single wow fadeInUp" data-wow-delay="1.8s">
+						<div class="icon-box">
+							<i class="flaticon-support"></i>
+						</div>
+						
+						<h3>Algorithms</h3>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus assumenda voluptas</p>
+					</div>
+					<!-- Interests Single End -->
+				</div>
+			</div>
+		</div>
+	</section> 
+	<!-- Interestss Section Ends -->
+
+
+    <div class="row mb-5 pb-5">
+				<div class="col-md-12">
+					<div class="experience">
+						<h3 class="sub-title"><i class="fa fa-briefcase"></i> Experience</h3>
+						
+						<div class="row">
+							<div class="col-md-6">
